@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }));
   }
 
-  // Substitua o valor abaixo pelo link real do checkout.
+  // Configure aqui o link oficial de pagamento quando a oferta estiver pronta.
   const CHECKOUT_URL = '';
   const checkoutLinks = [
     document.getElementById('checkout-button'),
